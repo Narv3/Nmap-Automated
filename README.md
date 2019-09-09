@@ -7,4 +7,4 @@ Fixing errors with checking CVEs as well as goBuster when in use on certian netw
 
 Disclaimer:
 Script was not originally created by me. 
-Debugging updates will be postted here. 
+Debugging updates will be posted here. 
