@@ -1,5 +1,5 @@
 # Nmap-Automated
-nmap script that automates scanning as well as scanning for vulns.
+nmap script that automates scanning as well as for vulns.
 Helpful for scanning on HTB and OSCP practice machines.
 
 # In-Progress:
