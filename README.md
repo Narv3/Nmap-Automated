@@ -2,8 +2,8 @@
 nmap script that automates scanning as well as scanning for vulns.
 Helpful for scanning on HTB and OSCP practice machines.
 
-In-Progress:
-Fixing errors with checking CVEs as well as goBuster when in use on certian hosts that redirect. As well as adding more features
+# In-Progress:
+Fixing errors with checking CVEs as well as goBuster when in use on certian hosts that redirect. As well as adding more features... soon to come!
 
 # Features:
 1. **Quick:**	Shows all open ports quickly (~15 seconds)  
@@ -35,4 +35,4 @@ https://github.com/vulnersCom/nmap-vulners
 ```ln -s /PATH-TO-FOLDER/nmapAutomator.sh /usr/local/bin/```
 
 Disclaimer:
-Script was not originally created by me. Thanks to (21y4d) 
+Thanks to (21y4d) for the original script.  
